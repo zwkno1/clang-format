@@ -11,6 +11,7 @@ Add git filter to your git config to automatically format code files:
 ```
 
 2. Git clang-format plugin
+
 use :
 ``` git clang-format ```
 
